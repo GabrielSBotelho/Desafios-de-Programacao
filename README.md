@@ -1,4 +1,4 @@
-# Desafios-de-Programacao
+# Desafios de Programação
 
 ## Semana 01
 * [Count Items Matching a Rule](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2001/Count%20Items%20Matching%20a%20Rule.cpp)
