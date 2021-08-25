@@ -23,3 +23,23 @@
 * [Assign Cookies](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2004/Assign%20Cookies.cpp)
 * [Maximum Units on a Truck](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2004/Maximum%20Units%20on%20a%20Truck.cpp)
 * [Minimum Subsequence in Non-Increasing Order](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2004/Minimum%20Subsequence%20in%20Non-Increasing%20Order.cpp)
+
+## Semana 05
+
+## Semana 06
+* [Binary Watch](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2006/Binary%20Watch.cpp)
+* [Permutation II](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2006/Permutations%20II.cpp)
+* [Sum of All Subsets XOR Totals](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2006/Sum%20of%20All%20Subset%20XOR%20Totals.cpp)
+
+## Semana 07
+* [Is Subsequence](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2007/Is%20Subsequence.cpp)
+* [Max Consecutive Ones](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2007/Max%20Consecutive%20Ones.cpp)
+* [Moves Zeros](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2007/Move%20Zeroes.cpp)
+* [Remove Elements](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2007/Remove%20Element.cpp)
+* [Reverse Vowels](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2007/Reverse%20Vowels%20of%20a%20String.cpp)
+
+## Semana 08
+* [Car Pooling](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2008/Car%20Pooling.cpp)
+* [Find Pivot Index](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2008/Find%20Pivot%20Index.cpp)
+* [Minimum Size Subarray Sum](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2008/Minimum%20Size%20Subarray%20Sum.cpp)
+* [Minimum Value to Get Positive Step by Step Sum](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2008/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)
