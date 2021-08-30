@@ -25,7 +25,7 @@
 * [Minimum Subsequence in Non-Increasing Order](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2004/Minimum%20Subsequence%20in%20Non-Increasing%20Order.cpp)
 
 ## Semana 05
-* [N-Repeated Element in Size 2N Array]
+* [N-Repeated Element in Size 2N Array](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2005/N-Repeated%20Element%20in%20Size%202N%20Array.cpp)
 
 ## Semana 06
 * [Binary Watch](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2006/Binary%20Watch.cpp)
@@ -47,4 +47,4 @@
 
 ## Semana 09 
 
-* Power of Four
+* [Power of Four](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Power%20of%20Four.cpp)
