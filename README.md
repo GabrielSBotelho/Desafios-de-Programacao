@@ -49,6 +49,10 @@
 
 ## Semana 09 
 
+* [Hamming Distance](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Hamming%20Distance.cpp)
+* [Prime Number of Set Bits in Binary Representation](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.cpp)
+* [Maximum XOR for Each Query](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Maximum%20XOR%20for%20Each%20Query.cpp)
+* [Number of Steps to Reduce a Number to Zero](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)
 * [Power of Four](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Power%20of%20Four.cpp)
 
 ## Semana 10
