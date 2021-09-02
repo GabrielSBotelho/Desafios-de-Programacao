@@ -26,7 +26,9 @@
 
 ## Semana 05
 * [N-Repeated Element in Size 2N Array](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2005/N-Repeated%20Element%20in%20Size%202N%20Array.cpp)
-
+* [Find Words That Can Be Formed by Characters](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2005/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.cpp)
+* [Intersection of Two Arrays](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2005/Intersection%20of%20Two%20Arrays.cpp)
+* [Unique Number of Occurrences](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2005/Unique%20Number%20of%20Occurrences.cpp)
 ## Semana 06
 * [Binary Watch](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2006/Binary%20Watch.cpp)
 * [Permutation II](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2006/Permutations%20II.cpp)
