@@ -55,7 +55,7 @@
 * [Number of Steps to Reduce a Number to Zero](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)
 * [Power of Four](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Power%20of%20Four.cpp)
 
-## [Semana 10 - Segmentation Tree](https://github.com/GabrielSBotelho/Desafios-de-Programacao/tree/main/Semana%2010)
+## Semana 10 - Segmentation Tree 
 * [XOR of a given range ](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2010/XOR%20of%20a%20given%20range.cpp)
 * [XOR of a given range (version 2)](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2010/XOR%20of%20a%20given%20range%20(vers%C3%A3o%202).cpp)
 * [Range Minimum Query ](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2010/Range%20Minimum%20Query.cpp)
