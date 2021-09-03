@@ -56,6 +56,7 @@
 * [Power of Four](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2009/Power%20of%20Four.cpp)
 
 ## Semana 10
-* []()
-* []()
+* [XOR of a given range ](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2010/XOR%20of%20a%20given%20range.cpp)
+* [XOR of a given range (version 2)](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2010/XOR%20of%20a%20given%20range%20(vers%C3%A3o%202).cpp)
+* [Range Minimum Query ](https://github.com/GabrielSBotelho/Desafios-de-Programacao/blob/main/Semana%2010/Range%20Minimum%20Query.cpp)
 * []()
