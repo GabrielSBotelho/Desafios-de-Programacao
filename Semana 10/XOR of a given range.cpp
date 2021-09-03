@@ -1,10 +1,6 @@
-%%writefile segmentTree.cpp
 #include <bits/stdc++.h>
-
 #define MAXN 10000
-
 using namespace std;
-
 
 class SegmentTree{
 	
